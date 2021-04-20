@@ -1,0 +1,2 @@
+# Harjoitus-juttuja
+avoindata harjoituksia
